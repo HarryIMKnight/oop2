@@ -1,0 +1,6 @@
+﻿  main.cpp
+  triangle.cpp
+C:\Users\c00298918\source\repos\triangle\triangle\triangle.cpp(11,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00298918\source\repos\triangle\triangle\triangle.cpp(17,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  triangle.vcxproj -> C:\Users\c00298918\source\repos\triangle\Debug\triangle.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c00298918\\source\\repos\\triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96961340-A139-49F1-8863-CDDE3E7B2CB1}|triangle\\triangle.vcxproj|C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96961340-A139-49F1-8863-CDDE3E7B2CB1}|triangle\\triangle.vcxproj|solutionrelative:triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96961340-A139-49F1-8863-CDDE3E7B2CB1}|triangle\\triangle.vcxproj|C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96961340-A139-49F1-8863-CDDE3E7B2CB1}|triangle\\triangle.vcxproj|solutionrelative:triangle\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96961340-A139-49F1-8863-CDDE3E7B2CB1}|triangle\\triangle.vcxproj|C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96961340-A139-49F1-8863-CDDE3E7B2CB1}|triangle\\triangle.vcxproj|solutionrelative:triangle\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "triangle.h",
+              "DocumentMoniker": "C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\triangle.h",
+              "RelativeDocumentMoniker": "triangle\\triangle.h",
+              "ToolTip": "C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\triangle.h",
+              "RelativeToolTip": "triangle\\triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T08:47:28.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "triangle.cpp",
+              "DocumentMoniker": "C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\triangle.cpp",
+              "RelativeDocumentMoniker": "triangle\\triangle.cpp",
+              "ToolTip": "C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\triangle.cpp",
+              "RelativeToolTip": "triangle\\triangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T08:51:58.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\main.cpp",
+              "RelativeDocumentMoniker": "triangle\\main.cpp",
+              "ToolTip": "C:\\Users\\c00298918\\source\\repos\\triangle\\triangle\\main.cpp",
+              "RelativeToolTip": "triangle\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T08:47:19.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
